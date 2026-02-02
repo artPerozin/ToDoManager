@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\peroz\\OneDrive\\Desktop\\ASPnetAPIrest\\ASPnetAPIrest.csproj": {}
+    "C:\\Users\\peroz\\OneDrive\\Desktop\\Programacao\\ToDoManager\\ASPnetAPIrest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\peroz\\OneDrive\\Desktop\\ASPnetAPIrest\\ASPnetAPIrest.csproj": {
+    "C:\\Users\\peroz\\OneDrive\\Desktop\\Programacao\\ToDoManager\\ASPnetAPIrest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\peroz\\OneDrive\\Desktop\\ASPnetAPIrest\\ASPnetAPIrest.csproj",
+        "projectUniqueName": "C:\\Users\\peroz\\OneDrive\\Desktop\\Programacao\\ToDoManager\\ASPnetAPIrest.csproj",
         "projectName": "ASPnetAPIrest",
-        "projectPath": "C:\\Users\\peroz\\OneDrive\\Desktop\\ASPnetAPIrest\\ASPnetAPIrest.csproj",
+        "projectPath": "C:\\Users\\peroz\\OneDrive\\Desktop\\Programacao\\ToDoManager\\ASPnetAPIrest.csproj",
         "packagesPath": "C:\\Users\\peroz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\peroz\\OneDrive\\Desktop\\ASPnetAPIrest\\obj\\",
+        "outputPath": "C:\\Users\\peroz\\OneDrive\\Desktop\\Programacao\\ToDoManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peroz\\AppData\\Roaming\\NuGet\\NuGet.Config"
